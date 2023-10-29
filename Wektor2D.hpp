@@ -32,4 +32,4 @@ public:
     double operator*(const Wektor2D& other) {
         return x * other.x + y * other.y; // Iloczyn skalarny
     }
-}
+};
